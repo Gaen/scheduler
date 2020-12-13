@@ -1,0 +1,6 @@
+/.idea/
+/src/
+/tsconfig.json
+/tsconfig.tsbuildinfo
+/.nvmrc
+/docker-compose.yml
